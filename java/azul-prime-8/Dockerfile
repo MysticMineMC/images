@@ -1,9 +1,9 @@
 # ----------------------------------
-# MysticMineMC Java Azul Prime 19
-# Image: ghcr.io/mysticminemc/images:azul-prime-19
+# MysticMineMC Java Azul Prime 8
+# Image: ghcr.io/mysticminemc/images:azul-prime-8
 # ----------------------------------
 
-FROM        azul/prime:19
+FROM        azul/prime:8
 
 LABEL       author="MysticMineMC" maintainer="support@mysticminemc.net"
 
